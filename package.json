@@ -1,0 +1,10 @@
+{
+  "name": "silky-scroll",
+  "version": "1.0.2",
+  "description": "兼容pc,android,ios流畅滚动",
+  "main": "silky-scroll.min.js",
+  "repository": "https://github.com/dsmelon/silky-scroll.git",
+  "author": "dsmelon",
+  "keyword": "scroll",
+  "license": "ISC"
+}
