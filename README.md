@@ -1,6 +1,6 @@
 ﻿# silky-scroll流畅滚动，是时候放弃你的iScroll了
 
-滚动在pc,android,ios表现不一致的问题想必让大家苦恼了很久，使用iscroll又被反复折磨，鉴于此种情景，基于iNobounce的思想，自己写了一个插件来处理这种情况。
+滚动在pc,android,ios表现不一致的问题想必让大家苦恼了很久，使用iscroll又被反复折磨，鉴于此种情景，基于iNobounce的思想，自己写了一个插件来处理这种情况，已经修复X轴滚动，经生产测试成功。
 
 可以使用npm安装，也可以使用cnpm
 
